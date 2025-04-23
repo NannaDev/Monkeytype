@@ -1,4 +1,4 @@
-# after open click in accept all cookie fast or error in code if it happened just try again
+# after open click in "accept all" fast or error in code if it happened just try again
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
